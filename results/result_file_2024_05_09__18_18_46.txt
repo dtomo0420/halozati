@@ -1,0 +1,21 @@
+------------------------------
+------------------------------
+Bichromatic cycles:
+The 1. route
+	A1->B1
+	B1->A2
+	A2->B2
+	B2->A2
+	A2->B1
+	B1->A1
+------------------------------
+------------------------------
+Cost of the routes:
+	The 1. route: 16
+
+Cost of the tsp: 13
+------------------------------
+------------------------------
+The running times:
+	based on the algorithm in the article: 1.3825540543 sec
+	based on the TSP algorithm: 0.0000062000 sec
